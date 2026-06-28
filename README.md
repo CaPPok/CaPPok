@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="60" align="absmiddle"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=36&color=64B1FF&center=false&vCenter=true&width=500&lines=CAPPOK'S+HOME" alt="Title" align="absmiddle"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=36&color=64B1FF&center=false&vCenter=true&width=470&lines=CAPPOK'S+HOME" alt="Title" align="absmiddle"/>
   <br><br>
   <a href="mailto:banhphuhoi05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
   <a href="https://www.facebook.com/phuhoi.banh/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
