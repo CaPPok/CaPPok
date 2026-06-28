@@ -5,7 +5,7 @@
   <br><br>
   <a href="mailto:banhphuhoi05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
   <a href="https://www.facebook.com/phuhoi.banh/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/banhphuhoi2710/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/banhphuhoi2710/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin-in&logoColor=white&v=1" alt="LinkedIn" /></a>
   <a href="https://github.com/CaPPok"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Github" /></a>&nbsp;
   <img src="https://img.shields.io/badge/Major-Computer%20Science-0077B5?style=flat&logo=bookmeter&logoColor=white" alt="Computer Science" />&nbsp;
   <img src="https://img.shields.io/badge/University-HCMUT-0F4C81?style=flat&logo=google-scholar&logoColor=white" alt="HCMUT" />
