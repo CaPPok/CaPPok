@@ -1,4 +1,10 @@
-## CAPPOK'S HOME
+<div align="center">
+  <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="60" align="absmiddle"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=36&color=64B1FF&center=false&vCenter=true&width=500&lines=CAPPOK'S+HOME" alt="Title" align="absmiddle"/>
+</div>
+
+---
 
 > [!NOTE]
 > _**Have a good night!**_
