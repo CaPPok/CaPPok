@@ -24,7 +24,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaPPok&show_icons=true&theme=transparent&hide_border=true&custom_title=CaPPok's%20Github%20Stats&show=reviews,discussions_started,discussions_answere" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=CaPPok&show_icons=true&theme=transparent&hide_border=true&custom_title=CaPPok's%20Github%20Stats&show=reviews,discussions_started,discussions_answere&include_all_commits=true" alt="GitHub Stats" />
+   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaPPok&layout=compact&langs_count=10&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
