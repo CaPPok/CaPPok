@@ -41,8 +41,8 @@
   <a href="https://github.com/CaPPok/leetcode-solutions">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=CaPPok&repo=leetcode-solutions&show_owner=true&theme=catppuccin_latte&hide_border=true&border_radius=20" alt="LeetCode Solutions Repo" />
   </a>
-  <a href="https://github.com/CaPPok/leetcode-solutions">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=CaPPok&repo=leetcode-solutions&show_owner=true&theme=catppuccin_latte&hide_border=true&border_radius=20" alt="LeetCode Solutions Repo" />
+  <a href="https://github.com/CaPPok/movie-recommendation-system">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=CaPPok&repo=movie-recommendation-system&show_owner=true&theme=catppuccin_latte&hide_border=true&border_radius=20" alt="Movie Recommendation System" />
   </a>
 </div>
 
